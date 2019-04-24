@@ -66,3 +66,21 @@ body {
         padding-top: 50px;
     }
 }
+
+.actionbut {
+    color: rgba(255, 255, 255, 0.699);
+    font-family: "Open Sans", serif;
+    font-size: 25px;
+    letter-spacing: -1.5px;
+    border-radius: 3px;
+    transition: 0.2s;
+    margin-top: 25px;
+    background: #f50042;
+    padding: 10px;
+}
+
+.actionbut:hover {
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
