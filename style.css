@@ -57,6 +57,18 @@ span {
     .box1 {
         text-align: center;
     }
+    .build {
+        display: none;
+    }
+    .logo {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .logo {
+        margin-top: 300px;
+    }
 }
 
 .actionbut {

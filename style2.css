@@ -1,0 +1,68 @@
+body {
+    background: #212226;
+}
+
+.bd {
+    font-family: "Open Sans", serif;
+    font-size: 43px;
+    color: rgb(255, 255, 255);
+    letter-spacing: -1.5px;
+    font-weight: 700;
+}
+
+.ha {
+    padding-top: 50px;
+}
+
+.logo {
+    width: 70px;
+    height: auto;
+    margin-right: 15px;
+}
+
+.o2 {
+    width: 70px;
+    height: auto;
+    padding: 5px;
+}
+
+.emoji2 {
+    width: 30px;
+    height: auto;
+}
+
+.container2 {
+    padding: 0 31% 0 31%;
+    padding-top: 50px;
+}
+
+.container2 p {
+    font-family: 'Merriweather', serif;
+    letter-spacing: 0.01rem;
+    font-size: 1.1em;
+    line-height: 1.75em;
+    color: rgb(255, 255, 255);
+    margin-bottom: 40px;
+    font-weight: 0;
+}
+
+@media screen and (max-width:1500px) {
+    .container2 {
+        padding: 0 25% 0 25%;
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .container2 {
+        padding: 0 20% 0 20%;
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .container2 {
+        padding: 0 10% 0 10%;
+        padding-top: 50px;
+    }
+}
