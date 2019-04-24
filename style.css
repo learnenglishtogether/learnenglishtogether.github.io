@@ -34,7 +34,7 @@ body {
 }
 
 .exp {
-    background-color: #f50042;
+    background-color: #2e2e2e;
     color: #fff;
     padding: 15px;
     border-radius: 3px;
@@ -67,6 +67,8 @@ span {
     border-radius: 3px;
     transition: 0.2s;
     margin-top: 25px;
+    background: #f50042;
+    padding: 5px;
 }
 
 .actionbut:hover {
