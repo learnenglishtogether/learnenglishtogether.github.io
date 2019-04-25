@@ -37,7 +37,7 @@ body {
 }
 
 .container2 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.1em;
     line-height: 1.75em;
@@ -77,6 +77,7 @@ body {
     margin-top: 25px;
     background: #f50042;
     padding: 10px;
+    margin-bottom: 100px;
 }
 
 .actionbut:hover {
